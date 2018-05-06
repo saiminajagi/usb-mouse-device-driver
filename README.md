@@ -2,8 +2,6 @@
 Device Driver to adjust the screen brightness using mouse keys
 
  HOW TO RUN THE CODE
- 
-USB Mouse Driver for linux which adjusts brightness on left and right clicks.
 
 Using the device driver file :
     Run make command, this will create a .ko file which we will use to load the device driver
